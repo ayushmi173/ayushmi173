@@ -14,7 +14,7 @@
 
 💡 &nbsp; I'm a enthusiastic full stack developer.\
 💻 &nbsp;I'm currently working on service based company and playing with technology for creating the solutions.\
-🎓&nbsp;I graduated form AKTU (B.Tech, Computer Science and Engineering).\
+🎓&nbsp;I graduated from AKTU (B.Tech, Computer Science and Engineering).\
 🌱 &nbsp;I'm on track for learning more about JS libraries, AWS, Jest, Affiliate Marketing, and Devops many more.\
 ✍️ &nbsp;In my free time, I play songs, ride bike and pursue learnings as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
