@@ -46,6 +46,15 @@
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 )&nbsp;
 
+## 📈 Stats
+<p align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=ayushmi173&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayushmi173&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmi173&theme=tokyonight" />
+ 
+ </p>
+ 
 ### 📫 &nbsp; How to reach me:
 
 
