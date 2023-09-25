@@ -43,13 +43,17 @@
 ## 📈 Stats
 
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=ayushmi173&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+<h3>Professional Account</h3>
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayushmi17&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmi17&theme=tokyonight" />
+  </br>
+  
+  <h3>Personal Account</h3>
+ 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayushmi173&show_icons=true&theme=tokyonight" />
-</br>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayushmi17&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmi173&theme=tokyonight" />
  
- </p>
+</p>
  
 ### 📫 &nbsp; How to reach me:
 
