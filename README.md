@@ -44,8 +44,8 @@
 
 <p align="center">
 <h3>Professional Account</h3>
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayushmi17&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmi17&theme=tokyonight" />
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayush-mishra-in&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-mishra-in&theme=tokyonight" />
   </br>
   
   <h3>Personal Account</h3>
