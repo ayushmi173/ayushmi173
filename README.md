@@ -59,4 +59,4 @@
 
 <a href="https://www.linkedin.com/in/ayush-mishra-466092119/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:ayushmishra173@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://www.instagram.com/ayush_mishra_knp/"><img src="https://img.shields.io/badge/-@ayush_mishra_knp_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://www.instagram.com/_ayush.mishraa_/"><img src="https://img.shields.io/badge/-@ayush_mishra_knp_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
