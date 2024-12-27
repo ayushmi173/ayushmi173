@@ -43,16 +43,17 @@
 ## 📈 Stats
 
 <p align="center">
+
+
+
 <h3>Professional Account</h3>
  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayush-mishra-in&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-mishra-in&theme=tokyonight" />
   </br>
   
   <h3>Personal Account</h3>
- 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayushmi173&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmi173&theme=tokyonight" />
- 
 </p>
  
 ### 📫 &nbsp; How to reach me:
